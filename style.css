@@ -1,10 +1,10 @@
 img{
-    width:200px;
+    width:400px;
 }
 body{
     text-align: center;
-    font-family: 'Arial';
-    background: azure;
+    font-family: 'TimesNewRome';
+    background: whitesmoke;
     color: purple;
 
 }
